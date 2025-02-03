@@ -2,7 +2,7 @@
 Run Using Command Line (Terminal)
 Step 1: Download or Clone the Repository
 
-git clone https://github.com/yourusername/ToDoListApp.git
+git clone https://github.com/Preeza123/ToDoListApp.git
 
 cd ToDoListApp
 
